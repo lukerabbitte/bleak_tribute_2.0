@@ -72,7 +72,9 @@
         position: absolute;
         top: 0;
         left: 0;
-        z-index: -1
+        z-index: -1;
+        background-color: var(--secondary-color);
+        border-radius: 10px;
     }
 
     .browse_page_author_info_box {
