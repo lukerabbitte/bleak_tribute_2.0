@@ -1,9 +1,9 @@
 <script>
   import './styles.css';
   import { base } from '$app/paths';
-</script>
 
-export const prerender = true;
+  export const prerender = true;
+</script>
 
 <nav>
 	<a href="{base}/">Home</a>
