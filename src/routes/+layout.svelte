@@ -3,6 +3,8 @@
   import { base } from '$app/paths';
 </script>
 
+export const prerender = true;
+
 <nav>
 	<a href="{base}/">Home</a>
     <a href="{base}https://github.com/lukerabbitte">GitHub</a>
