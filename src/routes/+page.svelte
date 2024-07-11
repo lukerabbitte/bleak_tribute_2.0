@@ -24,19 +24,10 @@
 
     <div class="bio">
       <p>
-        I am a First-Class Computer Science and Language Graduate from Trinity College Dublin, lover of design, and observer of people.
+        I am a 1<sup>st</sup> class honours graduate of Computer Science and Language at Trinity College Dublin, lover of technology, design, music, writing, and photography.
       </p>
       <p>
-        I discovered the freedom-giving power of creative software as a teenager, be it for music, video, or photography.
-      </p>
-      <p>
-        Learning how to build software fit naturally into my affinity for deep and expressive systems.
-      </p>
-      <p>
-        In anything I do, I hope I become a maker of tasteful machines.
-      </p>
-      <p>
-        My current interests span full-stack engineering, linguistics, music production, machine learning, and information retrieval.
+        My current interests span full-stack engineering, linguistics, music production, machine learning, and information retrieval. I hope to spend my time building useful, beautiful, and expresive systems.
       </p>
       <p>
         Probably above all, I love listening and talking to new people! Feel free to reach out via the social media links above, or email me <a href="mailto:luke.rabbitte@gmail.com">here</a>.
@@ -53,6 +44,7 @@
         gap: 10px;
         align-items: center;
         justify-content: center;
+        margin-bottom: 10px;
     }
 
     .browse_page_container {

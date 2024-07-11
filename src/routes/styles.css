@@ -9,7 +9,9 @@ body {
     padding: 15px;
     overflow-y: auto;
     position: relative;
-    height: 90vh;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
 
 nav {
@@ -38,10 +40,26 @@ a {
 }
 
 
+.footer {
+    padding: 15px;
+    background: var(--secondary-color);
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    margin: -15px;
+    margin-top: auto;
+    justify-content: center;
+}
+
+.footer p {
+    color: var(--accent-color-3);
+}
+
 
 :root {
     --primary-color: #222422;
     --secondary-color: #111211;
     --accent-color-1: #ebebde;
     --accent-color-2: #cec887;
+    --accent-color-3: #bbdde4;
 }
