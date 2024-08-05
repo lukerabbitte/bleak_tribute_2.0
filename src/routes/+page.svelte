@@ -24,7 +24,7 @@
 
     <div class="bio">
       <p>
-        I am a 1<sup>st</sup> class honours graduate of Computer Science and Language at Trinity College Dublin, lover of technology, design, music, writing, and photography.
+        I am a first class honours graduate of Computer Science and Language at Trinity College Dublin, lover of technology, design, music, writing, and photography.
       </p>
       <p>
         My current interests span full-stack engineering, linguistics, music production, machine learning, and information retrieval. I hope to spend my time building useful, beautiful, and expresive systems.
