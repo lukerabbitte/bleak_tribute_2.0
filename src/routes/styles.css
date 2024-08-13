@@ -3,10 +3,10 @@
 body {
     font-family: 'Inter', sans-serif;
     font-size: 16px;
+    padding: 10px;
     background-color: var(--primary-color);
     color: var(--accent-color-1);
     margin: 0;
-    padding: 15px;
     overflow-y: auto;
     position: relative;
     height: 100vh;
@@ -14,14 +14,12 @@ body {
     flex-direction: column;
 }
 
-nav {
+/* nav {
     padding: 15px;
     background: var(--secondary-color);
     display: flex;
     flex-direction: row;
     gap: 10px;
-    margin: -15px;
-    margin-bottom: 15px;
 }
 
 nav a {
@@ -31,7 +29,7 @@ nav a {
     background: var(--primary-color);
     border-radius: 10px;
     padding: 0.2em 0.4em;
-}
+} */
 
 a {
     color: var(--accent-color-2);
@@ -40,26 +38,21 @@ a {
 }
 
 
-.footer {
-    padding: 15px;
-    background: var(--secondary-color);
-    display: flex;
-    flex-direction: row;
-    gap: 10px;
-    margin: -15px;
-    margin-top: auto;
-    justify-content: center;
-}
-
-.footer p {
-    color: var(--accent-color-3);
-}
-
-
 :root {
+    /* Color scheme variables */
     --primary-color: #222422;
     --secondary-color: #111211;
     --accent-color-1: #ebebde;
     --accent-color-2: #cec887;
     --accent-color-3: #bbdde4;
+
+    /* Layout variables */
+    --nav-height: 200px; 
+
+    /* Breakpoint variables */
+    --breakpoint-xs: 480px;
+    --breakpoint-sm: 768px;
+    --breakpoint-md: 1024px;
+    --breakpoint-lg: 1200px;
+    --breakpoint-xl: 1440px;
 }

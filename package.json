@@ -1,9 +1,9 @@
 {
-  "name": "min-waxlog-2",
+  "name": "bleak_tribute_2.0",
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "dev": "vite --host",
+    "dev": "vite --host --port 5190",
     "build": "vite build",
     "preview": "vite preview"
   },
