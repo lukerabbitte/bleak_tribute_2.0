@@ -10,6 +10,12 @@
         <DotsCanvas />
     </div>
     <div class="nav_card_author_info_box">
+        <nav class="nav_card_nav">
+            <a href="/">Home</a>
+            <a href="https://github.com/lukerabbitte">GitHub</a>
+            <a href="https://www.linkedin.com/in/lukerabbitte/">LinkedIn</a>
+            <a href="mailto:luke.rabbitte@gmail.com">Email</a>
+        </nav>
         <div class="nav_card_name_and_icons">
             <h1 class="nav_card_author_name">
                 {authorName}
@@ -23,12 +29,6 @@
                 </div>
             </div>
         </div>
-        <nav class="nav_card_nav">
-            <a href="/">Home</a>
-            <a href="https://github.com/lukerabbitte">GitHub</a>
-            <a href="https://www.linkedin.com/in/lukerabbitte/">LinkedIn</a>
-            <a href="mailto:luke.rabbitte@gmail.com">Email</a>
-        </nav>
     </div>
 </div>
 
@@ -108,6 +108,7 @@
     @media (max-width: 480px) {
         .nav_card_nav {
             justify-content: space-between;
+            gap: 6px;
         }
     }
 

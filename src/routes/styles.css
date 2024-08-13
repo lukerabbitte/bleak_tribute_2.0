@@ -56,3 +56,9 @@ a {
     --breakpoint-lg: 1200px;
     --breakpoint-xl: 1440px;
 }
+
+@media (max-width: 480px) {
+    :root {
+        --nav-height: 180px;
+    }
+}
