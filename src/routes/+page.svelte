@@ -6,10 +6,10 @@
     <div class="home_page_bio_and_image">
         <div class="home_page_bio">
           <p>
-            I am a first class honours graduate of Computer Science and Language at Trinity College Dublin, lover of technology, design, music, writing, and photography.
+            I'm a graduate of Computer Science and Language at Trinity College Dublin, lover of technology, design, music, writing, and photography.
           </p>
           <p>
-            My current interests span full-stack engineering, linguistics, music production, machine learning, and information retrieval. I hope to spend my time building useful, beautiful, and expresive systems.
+            My current interests span software engineering, linguistics, music production, machine learning, and information retrieval. I hope to spend my time building useful, beautiful, and expresive systems.
           </p>
           <p>
             Probably above all, I love listening and talking to new people! Feel free to reach out via the social media links above, or email me <a href="mailto:luke.rabbitte@gmail.com">here</a>.
