@@ -9,10 +9,13 @@
             I'm a graduate of Computer Science and Language at Trinity College Dublin, lover of technology, design, music, writing, and photography.
           </p>
           <p>
-            My current interests span software engineering, linguistics, music production, machine learning, and information retrieval. I hope to spend my time building useful, beautiful, and expresive systems.
+            My current interests span software engineering, linguistics, music production, machine learning, and information retrieval.
           </p>
           <p>
-            Probably above all, I love listening and talking to new people! Feel free to reach out via the social media links above, or email me <a href="mailto:luke.rabbitte@gmail.com">here</a>.
+            I'm currently working at <a href="https://waxlog.com">Waxlog</a>, an Irish startup building out features for record collectors to browse and organise their music and share their taste to their world. I'm happiest when working at the interface between the arts and technology!
+          </p>
+          <p>
+            I love listening to and meeting people. Feel free to reach out via the social media links above, or email me <a href="mailto:luke.rabbitte@gmail.com">here</a>.
           </p>
         </div>
     </div>
@@ -41,9 +44,6 @@
     } */
 
     .home_page_bio {
-        background-color: var(--secondary-color);
-        border-radius: 10px;
-        padding: 15px;
         flex-grow: 0;
     }
 

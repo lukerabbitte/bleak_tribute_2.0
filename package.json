@@ -21,6 +21,8 @@
   "dependencies": {
     "@threlte/core": "^7.3.1",
     "@threlte/extras": "^8.11.4",
+    "gray-matter": "^4.0.3",
+    "marked": "^14.0.0",
     "three": "^0.159.0"
   }
 }
