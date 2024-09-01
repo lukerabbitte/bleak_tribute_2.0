@@ -44,6 +44,7 @@
     } */
 
     .home_page_bio {
+        padding: 15px;
         flex-grow: 0;
     }
 
