@@ -1,4 +1,4 @@
-import { getPoemData } from '$@/lib/utils/loadMarkdown';
+import { getPoemData } from '@/lib/utils/loadMarkdown';
 
 export async function load({ params }) {
     const { slug } = params;
