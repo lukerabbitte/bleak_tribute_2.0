@@ -12,7 +12,7 @@
             My current interests span software engineering, linguistics, music production, machine learning, and information retrieval.
           </p>
           <p>
-            I'm currently working at <a href="https://waxlog.com">Waxlog</a>, an Irish startup building out features for record collectors to browse and organise their music and share their taste to their world. I'm happiest when working at the interface between the arts and technology!
+            I'm currently working as a frontend engineer at <a href="https://waxlog.com">Waxlog</a>, an Irish startup building out features for record collectors to browse and organise their music and share their taste to their world. I'm happiest when working at the interface between the arts and technology!
           </p>
           <p>
             I love listening to and meeting people. Feel free to reach out via the social media links above, or email me <a href="mailto:luke.rabbitte@gmail.com">here</a>.
