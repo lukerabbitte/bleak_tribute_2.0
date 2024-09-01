@@ -6,4 +6,11 @@ export default defineConfig({
 	ssr: {
 		noExternal: ['three']
 	},
+	resolve: {
+		alias: {
+		'@': path.resolve(__dirname, 'src'),
+		},
+  	},
 });
+
+
