@@ -14,7 +14,7 @@
             <a href="/">Home</a>
             <a href="https://github.com/lukerabbitte">GitHub</a>
             <a href="https://www.linkedin.com/in/lukerabbitte/">LinkedIn</a>
-            <a href="mailto:luke.rabbitte@gmail.com">Email</a>
+            <!-- <a href="mailto:luke.rabbitte@gmail.com">Email</a> -->
         </nav>
         <div class="nav_card_name_and_icons">
             <h1 class="nav_card_author_name">
@@ -41,6 +41,8 @@
         justify-content: end;
         border: 1px solid var(--secondary-color);
         border-radius: 10px;
+        width: 100%;
+        max-width: 75ch;
     }
 
     .dots_canvas_background {
@@ -103,13 +105,6 @@
         align-items: center;
         justify-content: baseline;
         gap: 10px;
-    }
-
-    @media (max-width: 480px) {
-        .nav_card_nav {
-            justify-content: space-between;
-            gap: 6px;
-        }
     }
 
     .nav_card_nav a {

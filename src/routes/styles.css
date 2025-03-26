@@ -8,8 +8,9 @@ body {
     color: var(--accent-color-1);
     margin: 0;
     overflow-y: auto;
+    overflow-x: hidden;
     position: relative;
-    height: 100vh;
+    height: calc(100vh - 20px);
     display: flex;
     flex-direction: column;
 }
@@ -48,6 +49,7 @@ a {
 
     /* Layout variables */
     --nav-height: 200px; 
+    --footer-height: 50px;
 
     /* Breakpoint variables */
     --breakpoint-xs: 480px;
@@ -55,10 +57,4 @@ a {
     --breakpoint-md: 1024px;
     --breakpoint-lg: 1200px;
     --breakpoint-xl: 1440px;
-}
-
-@media (max-width: 480px) {
-    :root {
-        --nav-height: 180px;
-    }
 }

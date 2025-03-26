@@ -15,6 +15,9 @@
             I'm currently working as a frontend engineer at <a href="https://waxlog.com">Waxlog</a>, an Irish startup building out features for record collectors to browse and organise their music and share their taste to their world. I'm happiest when working at the interface between the arts and technology!
           </p>
           <p>
+            Also check out <a href="https://elsinoreapp.com" target="_blank">Elsinore</a>, a reading highlight app I'm building, as well as <a href="https://mantelpiece.vercel.app" target="_blank">Mantelpiece</a>, a simply and snappy CMS for journalism portfolios.
+          </p>
+          <p>
             I love listening to and meeting people. Feel free to reach out via the social media links above, or email me <a href="mailto:luke.rabbitte@gmail.com">here</a>.
           </p>
         </div>
@@ -28,7 +31,7 @@
         flex-direction: column;
         gap: 10px;
         align-items: center;
-        justify-content: center;
+        justify-content: start;
     }
 
     .home_page_bio_and_image {
@@ -46,6 +49,7 @@
     .home_page_bio {
         padding: 15px;
         flex-grow: 0;
+        max-width: 75ch;
     }
 
     .home_page_bio p {
